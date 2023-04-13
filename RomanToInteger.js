@@ -1,6 +1,7 @@
 
 
 /**
+ *  Author : Abrar
  * Here we mapped the roman numerals to their values
  * then we check if the numeral less than its successor if so we do a subtraction,
  * else we just add them

@@ -1,5 +1,5 @@
 //leetcode-9
-
+//Author : Abrar
 // we can solve it either reversing the number using while, mod, num/10
 // but we onverted it to string and then using a forloop we did the comparison from both ends
 

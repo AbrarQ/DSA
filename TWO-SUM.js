@@ -1,6 +1,7 @@
 //leetcode - 1
 
 /**
+ * Author : Abrar
  * Used map to find difference if exists else set nums[i],i
  * it wont work during the first iteration but it will work from next time.
  */
