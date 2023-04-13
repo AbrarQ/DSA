@@ -1,5 +1,5 @@
 /**
- *
+ *leetcode-14
  * Inthis task we are comapring strs[0][i] with other strings chars,
  * although we are using 2 for loops but the time complexity will be O(S)..S-all chars from all indexes
  * @param {string[]} strs
